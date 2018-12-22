@@ -21,6 +21,7 @@ Android native下进行mediaplayer播放在线url的支持库
 
 using namespace android;
 
+
 int main(int argc,char* argv[]){
 	if(!init_global_curl()){
 		return -1;
