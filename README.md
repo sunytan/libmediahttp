@@ -1,0 +1,2 @@
+# libmediahttp
+Android native下进行mediaplayer播放在线url的支持库
