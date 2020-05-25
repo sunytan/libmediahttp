@@ -4,6 +4,7 @@ Android native下进行mediaplayer播放在线url的支持库
 播放代码demo:
 
 ----------------start---------------------
+```
 
 #include <media/mediaplayer.h>
 #include <media/IMediaPlayer.h>
@@ -55,5 +56,5 @@ int main(int argc,char* argv[]){
     deInit_global_curl();
 }
 
-
+```
 ---------end-----------------
